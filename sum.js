@@ -1,0 +1,12 @@
+a = 10
+b = 6
+var sum = a+b
+console.log("sum = ",sum)
+var product = a*b
+console.log("product= ",product)
+var sub = a-b
+console.log("sub =",sub)
+var quotient = a/b
+console.log("div =",quotient)
+var remainder = a%b
+console.log("remainder = ",remainder)
